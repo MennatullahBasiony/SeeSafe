@@ -1,0 +1,8 @@
+flask
+base64
+PIL
+cv2
+numpy
+io
+os
+ultralytics
